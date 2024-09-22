@@ -1,0 +1,9 @@
+{
+    "register_title": "User Registration",
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "register_button": "Register",
+    "registration_success": "User registered successfully.",
+    "registration_error": "Username or email already exists."
+}

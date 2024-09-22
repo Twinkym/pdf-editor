@@ -1,0 +1,9 @@
+{
+    "register_title": "Registro de Usuario",
+    "username": "Usuario",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "register_button": "Registrar",
+    "registration_button": "Usuario registrado exitosamente.",
+    "registration_error": "El nombre de usuario o correo electrónico ya existe."
+}
